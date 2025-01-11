@@ -1,3 +1,6 @@
+import linkedInImage from '../assets/linkedin.svg';
+import githubImage from '../assets/github.svg';
+
 export function SocialLinks () {
     return (
         <div className="socialLinks">
