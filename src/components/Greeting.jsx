@@ -1,6 +1,6 @@
-import dayImage from 'src/assets/day.svg';
-import nightImage from 'src/assets/night.svg';
-import eveningImage from 'src/assets/evening.svg';
+import dayImage from '../assets/day.svg';
+import nightImage from '../assets/night.svg';
+import eveningImage from '../assets/evening.svg';
 
 export function Greeting() {
     const timeGreeting = () => {
